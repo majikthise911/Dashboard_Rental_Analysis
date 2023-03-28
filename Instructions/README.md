@@ -122,22 +122,3 @@ Sample Dashboard:
   ![dashboard-demo.gif](Images/dashboard-demo.gif)
 
 
-### Submission
-
-* Use the starter notebooks for the analysis and dashboard and upload these to Github.
-
-* Complete your README to explain how to run and use your dashboard.
-
-* Note: You should not submit your `mapbox` access token to Github!
-
-* Submit the Github URL repository to Bootcampspot.
-
----
-
-### Requirements
-
-#### Rental Analysis  (10 points)
-
-* Calculate the number of housing units per year. (5 points)
-* Create a bar chart visualization of the rental analysis results. (5 points)
-
